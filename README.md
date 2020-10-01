@@ -1,2 +1,2 @@
-# Event-page
-An event website.
+# EVENT-PAGE
+An Event Website. Here you can also post the Event.
